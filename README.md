@@ -1,3 +1,9 @@
+# Cadastro de clientes com Laravel e Validação
+
+   Projeto para cadastro e listamento de clientes com bootstrap e utilizando validação de formulários no Laravel
+   ![Preview-Screens](https://github.com/denison3965/Validacao_Laravel/blob/main/img/img1.png)
+   ![Preview-Screens](https://github.com/denison3965/Validacao_Laravel/blob/main/img/img2.png)
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
